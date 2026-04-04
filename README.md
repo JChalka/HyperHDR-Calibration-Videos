@@ -1,5 +1,5 @@
 # HyperHDR Calibration Videos
-Collection of HDR/Dolby Vision LUT calibration videos with different HDR/DV nit mastering levels
+Collection of HDR/Dolby Vision LUT calibration videos with different HDR/DV nit mastering levels (original videos & source swatches can be found at : https://github.com/awawa-dev/awawa-dev.github.io/tree/master/calibration )
 
 Contains videos for mastering at 1000nit and 4000nit respectively to cover a wider range of HDR/DV videos than the typical HDR calibration video
 
